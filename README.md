@@ -56,3 +56,8 @@ You are required to submit the following:
 
 * The URL to the GitHub repository
 Tracker
+
+
+
+
+LINK TO DEPLOYED APPLICATION: https://fittracc.herokuapp.com/
